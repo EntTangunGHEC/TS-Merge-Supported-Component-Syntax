@@ -3003,8 +3003,8 @@
 
 "@uxpin/merge-cli@^2.7.10":
   version "2.7.10"
-  resolved "https://npm.pkg.github.com/download/@uxpin/merge-cli/2.7.10/8e6dadd19e089b026c371289d72eea9a3b02941a9a5bad6b67fd5058f651c006#16c240d39c76303c49144c3ef1c160407669a7bf"
-  integrity sha512-xV4QXd6tXvQqJaqyrW3z68i7knQV+rOxiUWwX0u25pJMlYGYS8VzQT1EcSCTdBeFB9vqTwe+gZcDw4yqAjQ8eg==
+  resolved "https://registry.yarnpkg.com/@uxpin/merge-cli/-/merge-cli-2.10.0.tgz#e590f623b5154b932660175fbfb0a8d35adfed3f"
+  integrity sha512-UiNt3iRn/4XDNoJKIEYi1F8R3FVTk8Tlq0yaqhckzuSR6vDAJlNCDv0dn++nScnUqZsFucBzjHQiAP2+HYpx6g==
   dependencies:
     "@babel/core" "^7.2.2"
     "@babel/plugin-proposal-class-properties" "^7.2.3"
@@ -3050,8 +3050,8 @@
 
 "@uxpin/react-docgen-better-proptypes@^0.1.1":
   version "0.1.1"
-  resolved "https://npm.pkg.github.com/download/@uxpin/react-docgen-better-proptypes/0.1.1/d5c6456b77e25e96aadd7a1a0b384cd97710cdf701ef36e74e20c794c03cd0dd#00de0cf741e365953de35801f6a4ea3f96a1bbe8"
-  integrity sha512-GxD0bRlEkdVjHQYGOwGnElIjFWTecIofyrvdOQUjOr0Uqc8B51bwhPijnRPbk6wVDGJKbNN8NpjkDbajkRNLTg==
+  resolved "https://registry.yarnpkg.com/@uxpin/react-docgen-better-proptypes/-/react-docgen-better-proptypes-0.1.1.tgz#35b51aa28cf6eafe10fb3447e8aa2eeed61b0c95"
+  integrity sha512-FDHEG6Xal5usJODuDE/Ejo3xsuHAcWb9y9Y0ureRXUE9f9eP5gs0sff/UhZJke+HBgOU8lkQYDxo2HmpcdlvJg==
   dependencies:
     "@babel/runtime" "^7.2.0"
     fs-extra "^7.0.1"
